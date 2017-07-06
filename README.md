@@ -1,17 +1,15 @@
-# UdacityRoboticsND-Project1
-
 ## Project 1: Search and Sample Return
 ###### Udacity Nanodegree
 ###### June 2017
 
 [//]: # (Image References)
 
-[image1]: ./misc/rockPixels.jpg
-[image2]: ./misc/Rock_color_analysis.jpg
-[image3]: ./misc/rock_thresh.jpg
-[image4]: ./misc/color_map.jpg
-[image5]: ./misc/example_grid1.jpg
-[image6]: ./misc/video_screenshot.jpg
+[image1]: ./RoboticsND-Project1/misc/rockPixels.jpg
+[image2]: ./RoboticsND-Project1/misc/Rock_color_analysis.jpg
+[image3]: ./RoboticsND-Project1/misc/rock_thresh.jpg
+[image4]: ./RoboticsND-Project1/misc/color_map.jpg
+[image5]: ./RoboticsND-Project1/misc/example_grid1.jpg
+[image6]: ./RoboticsND-Project1/misc/video_screenshot.jpg
 
 ###
 ###
