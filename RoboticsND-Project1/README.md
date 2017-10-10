@@ -1,29 +1,15 @@
-<<<<<<< HEAD
-[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
-
-=======
->>>>>>> 9815013c984a709477eb3e14e3e2054db1c38053
 ## Project 1: Search and Sample Return
 ###### Udacity Nanodegree
 ###### June 2017
 
 [//]: # (Image References)
 
-<<<<<<< HEAD
 [image1]: ./misc/rockPixels.jpg
 [image2]: ./misc/Rock_color_analysis.jpg
 [image3]: ./misc/rock_thresh.jpg
 [image4]: ./misc/color_map.jpg
 [image5]: ./misc/example_grid1.jpg
 [image6]: ./misc/video_screenshot.jpg
-=======
-[image1]: ./RoboticsND-Project1/misc/rockPixels.jpg
-[image2]: ./RoboticsND-Project1/misc/Rock_color_analysis.jpg
-[image3]: ./RoboticsND-Project1/misc/rock_thresh.jpg
-[image4]: ./RoboticsND-Project1/misc/color_map.jpg
-[image5]: ./RoboticsND-Project1/misc/example_grid1.jpg
-[image6]: ./RoboticsND-Project1/misc/video_screenshot.jpg
->>>>>>> 9815013c984a709477eb3e14e3e2054db1c38053
 
 ###
 ###
